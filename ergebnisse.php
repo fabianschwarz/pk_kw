@@ -1,0 +1,9 @@
+<?php 
+include("engine.php");
+include("1.php"); 
+?>
+<h3>Ergebnisse</h3>
+<?php
+ergebnisse();
+include("2.php"); 
+?>
